@@ -1,0 +1,34 @@
+.menu {
+  margin: 0 auto;  
+  border-collapse: collapse;
+}
+table,
+th,
+th a {
+  padding: 30px 30px;
+  text-decoration: none;
+}
+
+.logo {
+  float: left;
+  width: 10%;
+}
+
+.pc1 {
+  width: 100%;
+}
+
+.table33{
+  margin: 0 auto;  
+  border-collapse: collapse; 
+}
+
+.piePagina{
+  margin: 0 auto;  
+  border-collapse: collapse;
+  text-align: center;
+}
+.redes {
+  padding: 5%; 
+  width:15%
+}

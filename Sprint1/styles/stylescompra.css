@@ -1,0 +1,59 @@
+.menu {
+  margin: 0 auto;  
+  border-collapse: collapse;
+}
+table,
+th,
+th a {
+  padding: 30px 30px;
+  text-decoration: none;
+}
+
+.logo {
+  float: left;
+  width: 10%;
+}
+
+.item1 { 
+  padding-top: 10%;
+  text-align:center;
+}
+
+.item2 { 
+  padding-top: 5%;
+  text-align:center;
+}
+
+.calcular{  
+  font-family: Cambria;
+  border: none;
+  background-color: red;
+  padding: 10px 15px;
+  text-decoration: none;
+  font-size: 16px;
+  color:aliceblue;
+  border-radius: 10px;  
+}
+
+.logo1{
+  width: 5%;
+}
+
+.men2{
+  font-family: Cambria;
+  font-size: medium;  
+  line-height: 0em;
+}
+
+.salida{
+  border: black 1px solid;
+  height:20px;
+  width: 180px; 
+  text-align:left;
+  margin-left: 44%;
+}
+
+.salida1{
+  color:red;
+  font-family: Cambria;
+}
